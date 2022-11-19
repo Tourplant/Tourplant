@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Donna
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning IMT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me phone 67952725
+ALways Faitful, Always Curious, Always Sleepy
+我没回复你的时候都在睡觉。
 
 <!---
 Tourplant/Tourplant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
