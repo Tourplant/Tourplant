@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Donna
-ALways Faitful, Always Curious, Always Sleepy
+ALways Faithful, Always Curious, Always Sleepy
 我没回复你的时候都在睡觉。
 
 <!---
